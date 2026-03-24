@@ -1,4 +1,0 @@
-aiogram
-playwright
-easyocr
-python-dotenv
